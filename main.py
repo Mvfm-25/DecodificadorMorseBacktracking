@@ -1,7 +1,7 @@
-# Trabalho de POA
-# [mvfm]
+# Projeto & Otimização de Algoritmos : T2
+# Marcus Margarites (23102543)
 
-# C: 21/10/25 - A: 27/10/25
+# C: 21/10/25 - A: 03/11/25
 
 MORSE_DICT = {
     "*-": "A", "-***": "B", "-*-*": "C", "-**": "D", "*": "E",
