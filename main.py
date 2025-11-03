@@ -45,4 +45,5 @@ entrada = input("Escreva uma mensagem em morse para ser decodificada :")
 
 possibilidades = decodificar_morse(entrada)
 
-print(possibilidades)
+for idx, p in enumerate(possibilidades, 1):
+    print(f"{idx}. {p}")
